@@ -4,9 +4,9 @@
 using namespace std;
 
 struct Value_Eqation{
-    int x2; // معامل a
-    int x1; // معامل b
-    int c;  // معامل c
+    int x2; 
+    int x1; 
+    int c;
 };
 
 int input_number(){
